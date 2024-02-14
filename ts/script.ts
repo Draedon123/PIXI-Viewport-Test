@@ -1,5 +1,5 @@
-import { Viewport, Plugin, } from 'pixi-viewport';
-import { Application, Sprite, Texture, Point as PIXI_Point } from 'pixi.js';
+import { Viewport } from 'pixi-viewport';
+import { Application, Sprite, Texture } from 'pixi.js';
 
 const canvas = document.querySelector("canvas")!;
 
